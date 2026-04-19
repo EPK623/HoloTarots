@@ -1,0 +1,10 @@
+{
+    "id": "HoloTarots",
+    "name":"HoloTarots",
+    "author" :["Kyouma"],
+    "description" :"Replace your tarots with your favorite hololive vtubers!!",
+    "prefix":"hlt",
+    "main_file":"main.lua",
+    "version":"0.0.1"
+
+}
